@@ -1,0 +1,42 @@
+.fa-shopping-basket {
+    font-size: 1500%;
+    color: white;
+}
+
+.buyGroceries {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 500%;
+}
+
+.bodyPanel {
+    font-size: 200%;
+}
+
+.bodyPanel div {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.fab {
+    width: 32%;
+}
+
+#trigger-click {
+    border: none;
+    background-color: brown;
+    color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-weight: bolder;
+}
+
+#shopping-list {
+    background-image: url(../img/bg.jpg);
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#user-input {
+    color: black;
+}
